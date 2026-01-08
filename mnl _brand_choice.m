@@ -1,7 +1,3 @@
-% PROJECT: Discrete Choice Analysis - Brand Preference Modeling
-% MODEL:   Multinomial Logit (MNL) with Alternative-Specific Regressors
-% METHOD:  Maximum Likelihood Estimation (MLE) via Quasi-Newton Optimization
-
 clear; clc;
 
 % --- 1. Data Ingestion ---
